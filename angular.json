@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "../my-second-app/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
